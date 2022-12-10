@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import propertyImg from '../public/assets/projects/bloodappcover.jpg';
-import cryptoImg from '../public/assets/projects/techappcover.jpg'
+import cryptoImg from '../public/assets/projects/techappcover.png'
 import netflixImg from '../public/assets/projects/bookappcover.jpg'
 import ProjectItem from './ProjectItem';
 
