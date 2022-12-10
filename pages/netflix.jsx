@@ -27,14 +27,7 @@ const netflix = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            I built this application in React JS and is hosted on GitHub pages.
-            This app features user authentication with firebase as well as the
-            firestore cloud storage database. This application is pulling movie
-            data from an the IMDB movie API and displaying different categories.
-            It features horizontal sliding and a featured selection. The
-            useContext hook is also being implemented for app-wide state
-            management.
-            android application for the persons who seek to exchange their 
+             Android application for the persons who seek to exchange their 
             books with other readers in their area , messaging from within 
             the app (text , photos) , push notifications , location services
             view nearby users , search , filter , and more features you can 
