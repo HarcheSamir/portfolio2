@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import cryptoImg from '../public/assets/projects/techappcover.jpg';
+import cryptoImg from '../public/assets/projects/techappcover.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
