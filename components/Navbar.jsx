@@ -32,7 +32,7 @@ useEffect(()=> {
     setLinkColor('#1f2937')
   }
 
-} , router)
+} , [router])
 
   useEffect(() => {
    
