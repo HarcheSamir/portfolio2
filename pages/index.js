@@ -11,8 +11,8 @@ export default function Home() {
     <div>
       <Head>
         <title>Samir | Android Developer</title>
-        <meta name="description" content="I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences." />
-        <link rel="icon" href="/and.png" />
+        <meta name="description" content="" />
+        <link  href="/and.png" />
       </Head>
     <Main />
     <About />
