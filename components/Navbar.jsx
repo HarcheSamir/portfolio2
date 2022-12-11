@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import me from '../public/assets/me.jpg'
+import me from '../public/assets/and.png'
 import {useRouter} from 'next/router'
 
 
