@@ -20,7 +20,7 @@ const Navbar = () => {
   };
 useEffect(()=> {
   if (
-    router.asPath === '/proprety' ||
+    router.asPath === '/property' ||
     router.asPath === '/crypto' ||
     router.asPath === '/netflix'
 
