@@ -2,7 +2,7 @@ import Link from 'next/link';
 import React from 'react';
 import { AiOutlineMail } from 'react-icons/ai';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import { FaFacebook, FaGithub, FaLinkedinIn , FaInstagram } from 'react-icons/fa';
+import { FaFacebook, FaGithub, FaLinkedinIn  , FaInstagram} from 'react-icons/fa';
 
 const Main = () => {
   return (
@@ -24,7 +24,8 @@ const Main = () => {
            s.harche@esi-sba.dz <br></br> 0792982030
           </p>
         
-                    <a
+          <div className='flex items-center justify-between max-w-[330px] m-auto '>
+          <a
               href='https://www.facebook.com/rag.gar.140/'
               target='_blank'
                     rel='noreferrer'
