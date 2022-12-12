@@ -37,22 +37,22 @@ const Contact = () => {
               <div>
                 <p className='uppercase pt-8 '>Connect With Me</p>
                 <div className='flex items-center justify-between py-4'>
-                  <a
-                    href='https://www.linkedin.com/in/harche-samir-56a1a7224'
-                    target='_blank'
-                    rel='noreferrer'
-                  >
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                      <FaLinkedinIn />
-                    </div>
-                  </a>
-                  <a
+                           <a
               href='https://www.facebook.com/rag.gar.140/'
               target='_blank'
                     rel='noreferrer'
                   >
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaFacebook />
+                    </div>
+                  </a>
+                  <a
+              href='https://www.instagram.com/harche_samir/'
+              target='_blank'
+                    rel='noreferrer'
+                  >
+                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                      <FaInstagram />
                     </div>
                   </a>
                   <a
@@ -64,13 +64,16 @@ const Contact = () => {
                 <AiOutlineMail />
               </div>
             </a>
-                    <a>
-                      <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        <BsFillPersonLinesFill />
-                      </div>
-                    </a>
-                
-                
+                  <a
+                    href='https://www.linkedin.com/in/harche-samir-56a1a7224'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
+                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                      <FaLinkedinIn />
+                    </div>
+                  </a>
+
                 </div>
                 <p className=' pt-1'>s.harche@esi-sba.dz <br></br>
                 0792982030</p>
