@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
-
+/*
 const resume = () => {
   return (
     <>
@@ -61,6 +61,7 @@ const resume = () => {
         </p>
 
         {/* Skills */}
+        /*
         <div className='text-center py-4'>
           <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
           <p className='py-2'>
@@ -89,6 +90,7 @@ const resume = () => {
           Professional Experience
         </h5>
         {/* Experience */}
+        /*
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
@@ -119,6 +121,7 @@ const resume = () => {
 
 
         {/* Personal Experience */}
+        /*
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
@@ -142,11 +145,13 @@ const resume = () => {
         </div>
 
         {/*  */}
+        /*
         <h5 className='text-center underline text-[18px] py-4'>
           Other Professional Experience
         </h5>
       
         {/* Experience */}
+        /*
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'>CITY OF SHERMAN, TX</span>
@@ -187,4 +192,4 @@ const resume = () => {
   );
 };
 
-export default resume;
+export default resume;*/
