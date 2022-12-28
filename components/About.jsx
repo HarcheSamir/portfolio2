@@ -14,7 +14,7 @@ const About = () => {
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
              Motivated and passionate software developer with three
-            years of experience in mobile applications developent field , Very
+            years of experience in mobile applications development field , Very
             good understanding of Android Back-end and UI guidelines , expertise
             in developing apps Using Firebase , Mysql , NodeJs , java , Kotlin ,
             Google Maps API and GPS location data , able to write good-quality
