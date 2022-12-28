@@ -5,7 +5,7 @@ import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import and from '../public/assets/and.png'
-import me from '../public/assets/me.jpg'
+import me from '../public/assets/me.png'
 import {useRouter} from 'next/router'
 
 
