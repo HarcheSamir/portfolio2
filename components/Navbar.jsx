@@ -63,8 +63,8 @@ useEffect(()=> {
             className="rounded-full"
               src={me}
               alt='/'
-              width='75'
-              height='75'
+              width='70'
+              height='70'
              
             />
           </a>
